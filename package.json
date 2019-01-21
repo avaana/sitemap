@@ -1,0 +1,21 @@
+{
+  "name": "avaana_sitemap",
+  "version": "1.0.0",
+  "description": "avaana sitemap ",
+  "main": "sitemap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/omnisttechhub/avaana_sitemap.git"
+  },
+  "author": "Akshay Kumar",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/omnisttechhub/avaana_sitemap#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "request": "^2.83.0",
+    "sitemap": "^1.13.0"
+  }
+}

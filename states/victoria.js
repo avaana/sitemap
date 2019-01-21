@@ -1,0 +1,3121 @@
+module.exports = [{
+	"suburb": "Melbourne",
+	"state": "Victoria",
+	"post_code": "3000",
+	"lat": "-37.814563",
+	"lon": "144.97026700000001"
+}, {
+	"suburb": "East Melbourne",
+	"state": "Victoria",
+	"post_code": "3002",
+	"lat": "-37.81664",
+	"lon": "144.98781099999999"
+}, {
+	"suburb": "West Melbourne",
+	"state": "Victoria",
+	"post_code": "3003",
+	"lat": "-37.806255",
+	"lon": "144.941123"
+}, {
+	"suburb": "Southbank",
+	"state": "Victoria",
+	"post_code": "3006",
+	"lat": "-37.823258000000003",
+	"lon": "144.965926"
+}, {
+	"suburb": "Docklands",
+	"state": "Victoria",
+	"post_code": "3008",
+	"lat": "-37.814718999999997",
+	"lon": "144.94803899999999"
+}, {
+	"suburb": "Footscray",
+	"state": "Victoria",
+	"post_code": "3011",
+	"lat": "-37.799770000000002",
+	"lon": "144.899587"
+}, {
+	"suburb": "Seddon",
+	"state": "Victoria",
+	"post_code": "3011",
+	"lat": "-37.808768999999998",
+	"lon": "144.89548600000001"
+}, {
+	"suburb": "Kingsville",
+	"state": "Victoria",
+	"post_code": "3012",
+	"lat": "-37.812635",
+	"lon": "144.88180299999999"
+}, {
+	"suburb": "Tottenham",
+	"state": "Victoria",
+	"post_code": "3012",
+	"lat": "-37.799064999999999",
+	"lon": "144.85782900000001"
+}, {
+	"suburb": "West Footscray",
+	"state": "Victoria",
+	"post_code": "3012",
+	"lat": "-37.797701000000004",
+	"lon": "144.87992399999999"
+}, {
+	"suburb": "Yarraville",
+	"state": "Victoria",
+	"post_code": "3013",
+	"lat": "-37.816178000000001",
+	"lon": "144.88977399999999"
+}, {
+	"suburb": "Newport",
+	"state": "Victoria",
+	"post_code": "3015",
+	"lat": "-37.842477000000002",
+	"lon": "144.88314500000001"
+}, {
+	"suburb": "Williamstown",
+	"state": "Victoria",
+	"post_code": "3016",
+	"lat": "-37.856901999999998",
+	"lon": "144.89769799999999"
+}, {
+	"suburb": "Altona",
+	"state": "Victoria",
+	"post_code": "3018",
+	"lat": "-37.869275000000002",
+	"lon": "144.830286"
+}, {
+	"suburb": "Braybrook",
+	"state": "Victoria",
+	"post_code": "3019",
+	"lat": "-37.779308999999998",
+	"lon": "144.85535899999999"
+}, {
+	"suburb": "Albion",
+	"state": "Victoria",
+	"post_code": "3020",
+	"lat": "-37.775953999999999",
+	"lon": "144.81939499999999"
+}, {
+	"suburb": "Sunshine North",
+	"state": "Victoria",
+	"post_code": "3020",
+	"lat": "-37.768903999999999",
+	"lon": "144.83025799999999"
+}, {
+	"suburb": "Sunshine West",
+	"state": "Victoria",
+	"post_code": "3020",
+	"lat": "-37.79983",
+	"lon": "144.81845000000001"
+}, {
+	"suburb": "Kings Park",
+	"state": "Victoria",
+	"post_code": "3021",
+	"lat": "-37.734276999999999",
+	"lon": "144.78087199999999"
+}, {
+	"suburb": "St Albans",
+	"state": "Victoria",
+	"post_code": "3021",
+	"lat": "-37.745063000000002",
+	"lon": "144.79962599999999"
+}, {
+	"suburb": "St Albans",
+	"state": "Victoria",
+	"post_code": "3021",
+	"lat": "-37.745063000000002",
+	"lon": "144.79962599999999"
+}, {
+	"suburb": "Ardeer",
+	"state": "Victoria",
+	"post_code": "3022",
+	"lat": "-37.782919999999997",
+	"lon": "144.801018"
+}, {
+	"suburb": "Burnside",
+	"state": "Victoria",
+	"post_code": "3023",
+	"lat": "-37.753380999999997",
+	"lon": "144.75261800000001"
+}, {
+	"suburb": "Burnside Heights",
+	"state": "Victoria",
+	"post_code": "3023",
+	"lat": "-37.771039000000002",
+	"lon": "144.77224799999999"
+}, {
+	"suburb": "Cairnlea",
+	"state": "Victoria",
+	"post_code": "3023",
+	"lat": "-37.762076",
+	"lon": "144.75416899999999"
+}, {
+	"suburb": "Caroline Springs",
+	"state": "Victoria",
+	"post_code": "3023",
+	"lat": "-37.741239999999998",
+	"lon": "144.736311"
+}, {
+	"suburb": "Deer Park",
+	"state": "Victoria",
+	"post_code": "3023",
+	"lat": "-37.770311999999997",
+	"lon": "144.77472"
+}, {
+	"suburb": "Mount Cottrell",
+	"state": "Victoria",
+	"post_code": "3024",
+	"lat": "-37.765160000000002",
+	"lon": "144.60950099999999"
+}, {
+	"suburb": "Wyndham Vale",
+	"state": "Victoria",
+	"post_code": "3024",
+	"lat": "-37.891641",
+	"lon": "144.62946700000001"
+}, {
+	"suburb": "Altona North",
+	"state": "Victoria",
+	"post_code": "3025",
+	"lat": "-37.842879000000003",
+	"lon": "144.85004900000001"
+}, {
+	"suburb": "Altona Meadows",
+	"state": "Victoria",
+	"post_code": "3028",
+	"lat": "-37.871631999999998",
+	"lon": "144.77808400000001"
+}, {
+	"suburb": "Laverton",
+	"state": "Victoria",
+	"post_code": "3028",
+	"lat": "-37.866939000000002",
+	"lon": "144.76174800000001"
+}, {
+	"suburb": "Seabrook",
+	"state": "Victoria",
+	"post_code": "3028",
+	"lat": "-37.877625999999999",
+	"lon": "144.75776999999999"
+}, {
+	"suburb": "Hoppers Crossing",
+	"state": "Victoria",
+	"post_code": "3029",
+	"lat": "-37.882635999999998",
+	"lon": "144.70029700000001"
+}, {
+	"suburb": "Hoppers Crossing",
+	"state": "Victoria",
+	"post_code": "3029",
+	"lat": "-37.882635999999998",
+	"lon": "144.70029700000001"
+}, {
+	"suburb": "Tarneit",
+	"state": "Victoria",
+	"post_code": "3029",
+	"lat": "-37.823737999999999",
+	"lon": "144.692893"
+}, {
+	"suburb": "Truganina",
+	"state": "Victoria",
+	"post_code": "3029",
+	"lat": "-37.825004",
+	"lon": "144.748931"
+}, {
+	"suburb": "Derrimut",
+	"state": "Victoria",
+	"post_code": "3030",
+	"lat": "-37.797548999999997",
+	"lon": "144.771097"
+}, {
+	"suburb": "Point Cook",
+	"state": "Victoria",
+	"post_code": "3030",
+	"lat": "-37.914616000000002",
+	"lon": "144.75103799999999"
+}, {
+	"suburb": "Point Cook",
+	"state": "Victoria",
+	"post_code": "3030",
+	"lat": "-37.914616000000002",
+	"lon": "144.75103799999999"
+}, {
+	"suburb": "Point Cook",
+	"state": "Victoria",
+	"post_code": "3030",
+	"lat": "-37.914616000000002",
+	"lon": "144.75103799999999"
+}, {
+	"suburb": "Werribee",
+	"state": "Victoria",
+	"post_code": "3030",
+	"lat": "-37.903337000000001",
+	"lon": "144.65773100000001"
+}, {
+	"suburb": "Werribee",
+	"state": "Victoria",
+	"post_code": "3030",
+	"lat": "-37.903337000000001",
+	"lon": "144.65773100000001"
+}, {
+	"suburb": "Werribee",
+	"state": "Victoria",
+	"post_code": "3030",
+	"lat": "-37.903337000000001",
+	"lon": "144.65773100000001"
+}, {
+	"suburb": "Werribee South",
+	"state": "Victoria",
+	"post_code": "3030",
+	"lat": "-37.903337000000001",
+	"lon": "144.65773100000001"
+}, {
+	"suburb": "Flemington",
+	"state": "Victoria",
+	"post_code": "3031",
+	"lat": "-37.788375000000002",
+	"lon": "144.93147200000001"
+}, {
+	"suburb": "Flemington",
+	"state": "Victoria",
+	"post_code": "3031",
+	"lat": "-37.788375000000002",
+	"lon": "144.93147200000001"
+}, {
+	"suburb": "Kensington",
+	"state": "Victoria",
+	"post_code": "3031",
+	"lat": "-37.794333000000002",
+	"lon": "144.92921699999999"
+}, {
+	"suburb": "Ascot Vale",
+	"state": "Victoria",
+	"post_code": "3032",
+	"lat": "-37.775829999999999",
+	"lon": "144.92337699999999"
+}, {
+	"suburb": "Maribyrnong",
+	"state": "Victoria",
+	"post_code": "3032",
+	"lat": "-37.772229000000003",
+	"lon": "144.88611599999999"
+}, {
+	"suburb": "Keilor East",
+	"state": "Victoria",
+	"post_code": "3033",
+	"lat": "-37.736263999999998",
+	"lon": "144.796336"
+}, {
+	"suburb": "Keilor",
+	"state": "Victoria",
+	"post_code": "3036",
+	"lat": "-37.718964999999997",
+	"lon": "144.83416600000001"
+}, {
+	"suburb": "Delahey",
+	"state": "Victoria",
+	"post_code": "3037",
+	"lat": "-37.715578999999998",
+	"lon": "144.780474"
+}, {
+	"suburb": "Hillside",
+	"state": "Victoria",
+	"post_code": "3037",
+	"lat": "-37.691437000000001",
+	"lon": "144.74001999999999"
+}, {
+	"suburb": "Sydenham",
+	"state": "Victoria",
+	"post_code": "3037",
+	"lat": "-37.700040000000001",
+	"lon": "144.76461699999999"
+}, {
+	"suburb": "Taylors Hill",
+	"state": "Victoria",
+	"post_code": "3037",
+	"lat": "-37.710380999999998",
+	"lon": "144.76679100000001"
+}, {
+	"suburb": "Keilor Downs",
+	"state": "Victoria",
+	"post_code": "3038",
+	"lat": "-37.725726000000002",
+	"lon": "144.81134599999999"
+}, {
+	"suburb": "Taylors Lakes",
+	"state": "Victoria",
+	"post_code": "3038",
+	"lat": "-37.698757999999998",
+	"lon": "144.78765999999999"
+}, {
+	"suburb": "Moonee Ponds",
+	"state": "Victoria",
+	"post_code": "3039",
+	"lat": "-37.765706999999999",
+	"lon": "144.919163"
+}, {
+	"suburb": "Aberfeldie",
+	"state": "Victoria",
+	"post_code": "3040",
+	"lat": "-37.756689999999999",
+	"lon": "144.89625899999999"
+}, {
+	"suburb": "Essendon",
+	"state": "Victoria",
+	"post_code": "3040",
+	"lat": "-37.754973",
+	"lon": "144.917407"
+}, {
+	"suburb": "Essendon West",
+	"state": "Victoria",
+	"post_code": "3040",
+	"lat": "-37.753802",
+	"lon": "144.888271"
+}, {
+	"suburb": "Strathmore",
+	"state": "Victoria",
+	"post_code": "3041",
+	"lat": "-37.735875999999998",
+	"lon": "144.91917599999999"
+}, {
+	"suburb": "Airport West",
+	"state": "Victoria",
+	"post_code": "3042",
+	"lat": "-37.711697999999998",
+	"lon": "144.88703699999999"
+}, {
+	"suburb": "Niddrie",
+	"state": "Victoria",
+	"post_code": "3042",
+	"lat": "-37.736030999999997",
+	"lon": "144.889072"
+}, {
+	"suburb": "Gladstone Park",
+	"state": "Victoria",
+	"post_code": "3043",
+	"lat": "-37.688609999999997",
+	"lon": "144.88362799999999"
+}, {
+	"suburb": "Gowanbrae",
+	"state": "Victoria",
+	"post_code": "3043",
+	"lat": "-37.706316000000001",
+	"lon": "144.89488499999999"
+}, {
+	"suburb": "Tullamarine",
+	"state": "Victoria",
+	"post_code": "3043",
+	"lat": "-37.68656",
+	"lon": "144.882698"
+}, {
+	"suburb": "Pascoe Vale",
+	"state": "Victoria",
+	"post_code": "3044",
+	"lat": "-37.727567999999998",
+	"lon": "144.939122"
+}, {
+	"suburb": "Pascoe Vale South",
+	"state": "Victoria",
+	"post_code": "3044",
+	"lat": "-37.739198000000002",
+	"lon": "144.94572199999999"
+}, {
+	"suburb": "Melbourne Airport",
+	"state": "Victoria",
+	"post_code": "3045",
+	"lat": "-37.668872999999998",
+	"lon": "144.83393100000001"
+}, {
+	"suburb": "Glenroy",
+	"state": "Victoria",
+	"post_code": "3046",
+	"lat": "-37.704580999999997",
+	"lon": "144.91575800000001"
+}, {
+	"suburb": "Hadfield",
+	"state": "Victoria",
+	"post_code": "3046",
+	"lat": "-37.707237999999997",
+	"lon": "144.93832"
+}, {
+	"suburb": "Broadmeadows",
+	"state": "Victoria",
+	"post_code": "3047",
+	"lat": "-37.680791999999997",
+	"lon": "144.921009"
+}, {
+	"suburb": "Coolaroo",
+	"state": "Victoria",
+	"post_code": "3048",
+	"lat": "-37.651811000000002",
+	"lon": "144.930466"
+}, {
+	"suburb": "Meadow Heights",
+	"state": "Victoria",
+	"post_code": "3048",
+	"lat": "-37.649859999999997",
+	"lon": "144.92210399999999"
+}, {
+	"suburb": "Westmeadows",
+	"state": "Victoria",
+	"post_code": "3049",
+	"lat": "-37.673551000000003",
+	"lon": "144.90085999999999"
+}, {
+	"suburb": "North Melbourne",
+	"state": "Victoria",
+	"post_code": "3051",
+	"lat": "-37.905996000000002",
+	"lon": "145.056254"
+}, {
+	"suburb": "Parkville",
+	"state": "Victoria",
+	"post_code": "3052",
+	"lat": "-37.788530999999999",
+	"lon": "144.947731"
+}, {
+	"suburb": "Carlton",
+	"state": "Victoria",
+	"post_code": "3053",
+	"lat": "-37.784337000000001",
+	"lon": "144.96974700000001"
+}, {
+	"suburb": "Carlton North",
+	"state": "Victoria",
+	"post_code": "3054",
+	"lat": "-37.784337000000001",
+	"lon": "144.96974700000001"
+}, {
+	"suburb": "Princes Hill",
+	"state": "Victoria",
+	"post_code": "3054",
+	"lat": "-37.780994999999997",
+	"lon": "144.96279200000001"
+}, {
+	"suburb": "Brunswick West",
+	"state": "Victoria",
+	"post_code": "3055",
+	"lat": "-37.762489000000002",
+	"lon": "144.96117599999999"
+}, {
+	"suburb": "Brunswick",
+	"state": "Victoria",
+	"post_code": "3056",
+	"lat": "-37.764828999999999",
+	"lon": "144.94377800000001"
+}, {
+	"suburb": "Brunswick East",
+	"state": "Victoria",
+	"post_code": "3057",
+	"lat": "-37.76491",
+	"lon": "144.979567"
+}, {
+	"suburb": "Coburg",
+	"state": "Victoria",
+	"post_code": "3058",
+	"lat": "-37.743188000000004",
+	"lon": "144.96627899999999"
+}, {
+	"suburb": "Coburg North",
+	"state": "Victoria",
+	"post_code": "3058",
+	"lat": "-37.730842000000003",
+	"lon": "144.971699"
+}, {
+	"suburb": "Fawkner",
+	"state": "Victoria",
+	"post_code": "3060",
+	"lat": "-37.759822999999997",
+	"lon": "144.89571000000001"
+}, {
+	"suburb": "Campbellfield",
+	"state": "Victoria",
+	"post_code": "3061",
+	"lat": "-37.643746",
+	"lon": "144.951369"
+}, {
+	"suburb": "Somerton",
+	"state": "Victoria",
+	"post_code": "3062",
+	"lat": "-37.642563000000003",
+	"lon": "144.94425899999999"
+}, {
+	"suburb": "Yuroke",
+	"state": "Victoria",
+	"post_code": "3063",
+	"lat": "-37.589588999999997",
+	"lon": "144.87940599999999"
+}, {
+	"suburb": "Craigieburn",
+	"state": "Victoria",
+	"post_code": "3064",
+	"lat": "-37.598975000000003",
+	"lon": "144.94128699999999"
+}, {
+	"suburb": "Craigieburn",
+	"state": "Victoria",
+	"post_code": "3064",
+	"lat": "-37.598975000000003",
+	"lon": "144.94128699999999"
+}, {
+	"suburb": "Craigieburn",
+	"state": "Victoria",
+	"post_code": "3064",
+	"lat": "-37.598975000000003",
+	"lon": "144.94128699999999"
+}, {
+	"suburb": "Craigieburn",
+	"state": "Victoria",
+	"post_code": "3064",
+	"lat": "-37.598975000000003",
+	"lon": "144.94128699999999"
+}, {
+	"suburb": "Mickleham",
+	"state": "Victoria",
+	"post_code": "3064",
+	"lat": "-37.560864000000002",
+	"lon": "144.87907799999999"
+}, {
+	"suburb": "Roxburgh Park",
+	"state": "Victoria",
+	"post_code": "3064",
+	"lat": "-37.636794999999999",
+	"lon": "144.932604"
+}, {
+	"suburb": "Fitzroy",
+	"state": "Victoria",
+	"post_code": "3065",
+	"lat": "-37.800916999999998",
+	"lon": "144.97916499999999"
+}, {
+	"suburb": "Collingwood",
+	"state": "Victoria",
+	"post_code": "3066",
+	"lat": "-37.800365999999997",
+	"lon": "144.984149"
+}, {
+	"suburb": "Abbotsford",
+	"state": "Victoria",
+	"post_code": "3067",
+	"lat": "-37.801780999999998",
+	"lon": "144.998752"
+}, {
+	"suburb": "Fitzroy North",
+	"state": "Victoria",
+	"post_code": "3068",
+	"lat": "-37.7834",
+	"lon": "144.98468800000001"
+}, {
+	"suburb": "Northcote",
+	"state": "Victoria",
+	"post_code": "3070",
+	"lat": "-37.769857000000002",
+	"lon": "144.99527599999999"
+}, {
+	"suburb": "Thornbury",
+	"state": "Victoria",
+	"post_code": "3071",
+	"lat": "-37.755040000000001",
+	"lon": "144.99858900000001"
+}, {
+	"suburb": "Preston",
+	"state": "Victoria",
+	"post_code": "3072",
+	"lat": "-37.738736000000003",
+	"lon": "145.00051500000001"
+}, {
+	"suburb": "Preston",
+	"state": "Victoria",
+	"post_code": "3072",
+	"lat": "-37.738736000000003",
+	"lon": "145.00051500000001"
+}, {
+	"suburb": "Reservoir",
+	"state": "Victoria",
+	"post_code": "3073",
+	"lat": "-37.716897000000003",
+	"lon": "145.00698499999999"
+}, {
+	"suburb": "Reservoir",
+	"state": "Victoria",
+	"post_code": "3073",
+	"lat": "-37.716897000000003",
+	"lon": "145.00698499999999"
+}, {
+	"suburb": "Reservoir East",
+	"state": "Victoria",
+	"post_code": "3073",
+	"lat": "-37.722242999999999",
+	"lon": "145.011124"
+}, {
+	"suburb": "Thomastown",
+	"state": "Victoria",
+	"post_code": "3074",
+	"lat": "-37.680337999999999",
+	"lon": "145.014287"
+}, {
+	"suburb": "Lalor",
+	"state": "Victoria",
+	"post_code": "3075",
+	"lat": "-37.665857000000003",
+	"lon": "145.01719399999999"
+}, {
+	"suburb": "Epping",
+	"state": "Victoria",
+	"post_code": "3076",
+	"lat": "-37.638362999999998",
+	"lon": "145.00949299999999"
+}, {
+	"suburb": "Epping",
+	"state": "Victoria",
+	"post_code": "3076",
+	"lat": "-37.638362999999998",
+	"lon": "145.00949299999999"
+}, {
+	"suburb": "Epping",
+	"state": "Victoria",
+	"post_code": "3076",
+	"lat": "-37.638362999999998",
+	"lon": "145.00949299999999"
+}, {
+	"suburb": "Alphington",
+	"state": "Victoria",
+	"post_code": "3078",
+	"lat": "-37.780766999999997",
+	"lon": "145.03116"
+}, {
+	"suburb": "Fairfield",
+	"state": "Victoria",
+	"post_code": "3078",
+	"lat": "-37.776946000000002",
+	"lon": "145.01847900000001"
+}, {
+	"suburb": "Ivanhoe",
+	"state": "Victoria",
+	"post_code": "3079",
+	"lat": "-37.769640000000003",
+	"lon": "145.041425"
+}, {
+	"suburb": "Ivanhoe East",
+	"state": "Victoria",
+	"post_code": "3079",
+	"lat": "-37.772829999999999",
+	"lon": "145.05940100000001"
+}, {
+	"suburb": "Heidelberg West",
+	"state": "Victoria",
+	"post_code": "3081",
+	"lat": "-37.74944",
+	"lon": "145.04140000000001"
+}, {
+	"suburb": "Mill Park",
+	"state": "Victoria",
+	"post_code": "3082",
+	"lat": "-37.667957000000001",
+	"lon": "145.06069299999999"
+}, {
+	"suburb": "Mill Park",
+	"state": "Victoria",
+	"post_code": "3082",
+	"lat": "-37.667957000000001",
+	"lon": "145.06069299999999"
+}, {
+	"suburb": "Bundoora",
+	"state": "Victoria",
+	"post_code": "3083",
+	"lat": "-37.701320000000003",
+	"lon": "145.071967"
+}, {
+	"suburb": "Kingsbury",
+	"state": "Victoria",
+	"post_code": "3083",
+	"lat": "-37.714064",
+	"lon": "145.03510299999999"
+}, {
+	"suburb": "Eaglemont",
+	"state": "Victoria",
+	"post_code": "3084",
+	"lat": "-37.762518999999998",
+	"lon": "145.068208"
+}, {
+	"suburb": "Heidelberg",
+	"state": "Victoria",
+	"post_code": "3084",
+	"lat": "-37.756340999999999",
+	"lon": "145.06714500000001"
+}, {
+	"suburb": "Rosanna",
+	"state": "Victoria",
+	"post_code": "3084",
+	"lat": "-37.742893000000002",
+	"lon": "145.065044"
+}, {
+	"suburb": "Viewbank",
+	"state": "Victoria",
+	"post_code": "3084",
+	"lat": "-37.739261999999997",
+	"lon": "145.09642400000001"
+}, {
+	"suburb": "Yallambie",
+	"state": "Victoria",
+	"post_code": "3085",
+	"lat": "-37.727482000000002",
+	"lon": "145.10230899999999"
+}, {
+	"suburb": "Watsonia",
+	"state": "Victoria",
+	"post_code": "3087",
+	"lat": "-37.712530999999998",
+	"lon": "145.082098"
+}, {
+	"suburb": "Briar Hill",
+	"state": "Victoria",
+	"post_code": "3088",
+	"lat": "-37.709482999999999",
+	"lon": "145.120135"
+}, {
+	"suburb": "Greensborough",
+	"state": "Victoria",
+	"post_code": "3088",
+	"lat": "-37.704622000000001",
+	"lon": "145.103024"
+}, {
+	"suburb": "Diamond Creek",
+	"state": "Victoria",
+	"post_code": "3089",
+	"lat": "-37.642628999999999",
+	"lon": "145.21759499999999"
+}, {
+	"suburb": "Plenty",
+	"state": "Victoria",
+	"post_code": "3090",
+	"lat": "-37.671565000000001",
+	"lon": "145.12402399999999"
+}, {
+	"suburb": "Yarrambat",
+	"state": "Victoria",
+	"post_code": "3091",
+	"lat": "-37.639769000000001",
+	"lon": "145.13266300000001"
+}, {
+	"suburb": "Montmorency",
+	"state": "Victoria",
+	"post_code": "3094",
+	"lat": "-37.715294",
+	"lon": "145.12158299999999"
+}, {
+	"suburb": "Eltham",
+	"state": "Victoria",
+	"post_code": "3095",
+	"lat": "-37.713830000000002",
+	"lon": "145.148537"
+}, {
+	"suburb": "Research",
+	"state": "Victoria",
+	"post_code": "3095",
+	"lat": "-37.703601999999997",
+	"lon": "145.18063599999999"
+}, {
+	"suburb": "Wattle Glen",
+	"state": "Victoria",
+	"post_code": "3096",
+	"lat": "-37.670101000000003",
+	"lon": "145.19092800000001"
+}, {
+	"suburb": "Hurstbridge",
+	"state": "Victoria",
+	"post_code": "3099",
+	"lat": "-37.640166000000001",
+	"lon": "145.192477"
+}, {
+	"suburb": "Kew",
+	"state": "Victoria",
+	"post_code": "3101",
+	"lat": "-37.797981999999998",
+	"lon": "145.05372700000001"
+}, {
+	"suburb": "Kew East",
+	"state": "Victoria",
+	"post_code": "3102",
+	"lat": "-37.796245999999996",
+	"lon": "145.04901699999999"
+}, {
+	"suburb": "Balwyn",
+	"state": "Victoria",
+	"post_code": "3103",
+	"lat": "-37.809700999999997",
+	"lon": "145.082303"
+}, {
+	"suburb": "Balwyn North",
+	"state": "Victoria",
+	"post_code": "3104",
+	"lat": "-37.792834999999997",
+	"lon": "145.07172700000001"
+}, {
+	"suburb": "Bulleen",
+	"state": "Victoria",
+	"post_code": "3105",
+	"lat": "-37.768554000000002",
+	"lon": "145.079543"
+}, {
+	"suburb": "Templestowe",
+	"state": "Victoria",
+	"post_code": "3106",
+	"lat": "-37.768881999999998",
+	"lon": "145.117873"
+}, {
+	"suburb": "Templestowe Lower",
+	"state": "Victoria",
+	"post_code": "3107",
+	"lat": "-37.756300000000003",
+	"lon": "145.10299699999999"
+}, {
+	"suburb": "Doncaster",
+	"state": "Victoria",
+	"post_code": "3108",
+	"lat": "-37.783031000000001",
+	"lon": "145.12251699999999"
+}, {
+	"suburb": "Donvale",
+	"state": "Victoria",
+	"post_code": "3111",
+	"lat": "-38.183898999999997",
+	"lon": "144.468019"
+}, {
+	"suburb": "North Warrandyte",
+	"state": "Victoria",
+	"post_code": "3113",
+	"lat": "-37.731757999999999",
+	"lon": "145.221282"
+}, {
+	"suburb": "Warrandyte",
+	"state": "Victoria",
+	"post_code": "3113",
+	"lat": "-37.736915000000003",
+	"lon": "145.22314"
+}, {
+	"suburb": "Park Orchards",
+	"state": "Victoria",
+	"post_code": "3114",
+	"lat": "-37.778441999999998",
+	"lon": "145.214586"
+}, {
+	"suburb": "Wonga Park",
+	"state": "Victoria",
+	"post_code": "3115",
+	"lat": "-37.738666000000002",
+	"lon": "145.27048300000001"
+}, {
+	"suburb": "Chirnside Park",
+	"state": "Victoria",
+	"post_code": "3116",
+	"lat": "-37.750324999999997",
+	"lon": "145.32646299999999"
+}, {
+	"suburb": "Richmond",
+	"state": "Victoria",
+	"post_code": "3121",
+	"lat": "-37.818587000000001",
+	"lon": "144.99918099999999"
+}, {
+	"suburb": "Hawthorn",
+	"state": "Victoria",
+	"post_code": "3122",
+	"lat": "-37.834854999999997",
+	"lon": "145.052097"
+}, {
+	"suburb": "Hawthorn East",
+	"state": "Victoria",
+	"post_code": "3123",
+	"lat": "-37.782254000000002",
+	"lon": "145.001811"
+}, {
+	"suburb": "Camberwell",
+	"state": "Victoria",
+	"post_code": "3124",
+	"lat": "-37.824818",
+	"lon": "145.05795699999999"
+}, {
+	"suburb": "Burwood",
+	"state": "Victoria",
+	"post_code": "3125",
+	"lat": "-37.852804999999996",
+	"lon": "145.15190899999999"
+}, {
+	"suburb": "Canterbury",
+	"state": "Victoria",
+	"post_code": "3126",
+	"lat": "-37.824249000000002",
+	"lon": "145.073114"
+}, {
+	"suburb": "Mont Albert",
+	"state": "Victoria",
+	"post_code": "3127",
+	"lat": "-37.821232000000002",
+	"lon": "145.104996"
+}, {
+	"suburb": "Surrey Hills",
+	"state": "Victoria",
+	"post_code": "3127",
+	"lat": "-37.825077",
+	"lon": "145.09741199999999"
+}, {
+	"suburb": "Surrey Hills",
+	"state": "Victoria",
+	"post_code": "3127",
+	"lat": "-37.825077",
+	"lon": "145.09741199999999"
+}, {
+	"suburb": "Box Hill",
+	"state": "Victoria",
+	"post_code": "3128",
+	"lat": "-37.817455000000002",
+	"lon": "145.119314"
+}, {
+	"suburb": "Box Hill North",
+	"state": "Victoria",
+	"post_code": "3129",
+	"lat": "-37.801760999999999",
+	"lon": "145.126869"
+}, {
+	"suburb": "Blackburn",
+	"state": "Victoria",
+	"post_code": "3130",
+	"lat": "-37.819374000000003",
+	"lon": "145.153852"
+}, {
+	"suburb": "Blackburn South",
+	"state": "Victoria",
+	"post_code": "3130",
+	"lat": "-37.831665999999998",
+	"lon": "145.14671899999999"
+}, {
+	"suburb": "Forest Hill",
+	"state": "Victoria",
+	"post_code": "3131",
+	"lat": "-37.834099000000002",
+	"lon": "145.166527"
+}, {
+	"suburb": "Nunawading",
+	"state": "Victoria",
+	"post_code": "3131",
+	"lat": "-37.820036999999999",
+	"lon": "145.175726"
+}, {
+	"suburb": "Mitcham",
+	"state": "Victoria",
+	"post_code": "3132",
+	"lat": "-37.816878000000003",
+	"lon": "145.193712"
+}, {
+	"suburb": "Vermont",
+	"state": "Victoria",
+	"post_code": "3133",
+	"lat": "-37.836235000000002",
+	"lon": "145.19465099999999"
+}, {
+	"suburb": "Vermont South",
+	"state": "Victoria",
+	"post_code": "3133",
+	"lat": "-37.856647000000002",
+	"lon": "145.18357599999999"
+}, {
+	"suburb": "Ringwood",
+	"state": "Victoria",
+	"post_code": "3134",
+	"lat": "-37.814019999999999",
+	"lon": "145.227362"
+}, {
+	"suburb": "Ringwood North",
+	"state": "Victoria",
+	"post_code": "3134",
+	"lat": "-37.787064000000001",
+	"lon": "145.23560000000001"
+}, {
+	"suburb": "Warranwood",
+	"state": "Victoria",
+	"post_code": "3134",
+	"lat": "-37.774017000000001",
+	"lon": "145.2483"
+}, {
+	"suburb": "Ringwood East",
+	"state": "Victoria",
+	"post_code": "3135",
+	"lat": "-37.812998999999998",
+	"lon": "145.24755099999999"
+}, {
+	"suburb": "Croydon",
+	"state": "Victoria",
+	"post_code": "3136",
+	"lat": "-37.798729000000002",
+	"lon": "145.28068500000001"
+}, {
+	"suburb": "Croydon",
+	"state": "Victoria",
+	"post_code": "3136",
+	"lat": "-37.798729000000002",
+	"lon": "145.28068500000001"
+}, {
+	"suburb": "Croydon Hills",
+	"state": "Victoria",
+	"post_code": "3136",
+	"lat": "-37.774436999999999",
+	"lon": "145.27556999999999"
+}, {
+	"suburb": "Croydon South",
+	"state": "Victoria",
+	"post_code": "3136",
+	"lat": "-37.811967000000003",
+	"lon": "145.26948100000001"
+}, {
+	"suburb": "Kilsyth",
+	"state": "Victoria",
+	"post_code": "3137",
+	"lat": "-37.802303999999999",
+	"lon": "145.312198"
+}, {
+	"suburb": "Mooroolbark",
+	"state": "Victoria",
+	"post_code": "3138",
+	"lat": "-37.774337000000003",
+	"lon": "145.32995399999999"
+}, {
+	"suburb": "Seville",
+	"state": "Victoria",
+	"post_code": "3139",
+	"lat": "-37.777197000000001",
+	"lon": "145.460734"
+}, {
+	"suburb": "Wandin East",
+	"state": "Victoria",
+	"post_code": "3139",
+	"lat": "-37.815707000000003",
+	"lon": "145.46037000000001"
+}, {
+	"suburb": "Wandin North",
+	"state": "Victoria",
+	"post_code": "3139",
+	"lat": "-37.771838000000002",
+	"lon": "145.41418200000001"
+}, {
+	"suburb": "Lilydale",
+	"state": "Victoria",
+	"post_code": "3140",
+	"lat": "-37.755519",
+	"lon": "145.34770700000001"
+}, {
+	"suburb": "South Yarra",
+	"state": "Victoria",
+	"post_code": "3141",
+	"lat": "-37.837882999999998",
+	"lon": "144.99112299999999"
+}, {
+	"suburb": "South Yarra",
+	"state": "Victoria",
+	"post_code": "3141",
+	"lat": "-37.837882999999998",
+	"lon": "144.99112299999999"
+}, {
+	"suburb": "Toorak",
+	"state": "Victoria",
+	"post_code": "3142",
+	"lat": "-37.84216",
+	"lon": "145.017966"
+}, {
+	"suburb": "Armadale",
+	"state": "Victoria",
+	"post_code": "3143",
+	"lat": "-37.859340000000003",
+	"lon": "145.018505"
+}, {
+	"suburb": "Malvern",
+	"state": "Victoria",
+	"post_code": "3144",
+	"lat": "-37.861426999999999",
+	"lon": "145.02850799999999"
+}, {
+	"suburb": "Malvern East",
+	"state": "Victoria",
+	"post_code": "3145",
+	"lat": "-37.878369999999997",
+	"lon": "145.067892"
+}, {
+	"suburb": "Glen Iris",
+	"state": "Victoria",
+	"post_code": "3146",
+	"lat": "-37.854686999999998",
+	"lon": "145.067215"
+}, {
+	"suburb": "Glen Iris",
+	"state": "Victoria",
+	"post_code": "3146",
+	"lat": "-37.854686999999998",
+	"lon": "145.067215"
+}, {
+	"suburb": "Ashburton",
+	"state": "Victoria",
+	"post_code": "3147",
+	"lat": "-37.863393000000002",
+	"lon": "145.07942"
+}, {
+	"suburb": "Ashwood",
+	"state": "Victoria",
+	"post_code": "3147",
+	"lat": "-37.864685999999999",
+	"lon": "145.09306100000001"
+}, {
+	"suburb": "Chadstone",
+	"state": "Victoria",
+	"post_code": "3148",
+	"lat": "-37.886372000000001",
+	"lon": "145.082527"
+}, {
+	"suburb": "Mount Waverley",
+	"state": "Victoria",
+	"post_code": "3149",
+	"lat": "-37.875273",
+	"lon": "145.128398"
+}, {
+	"suburb": "Mount Waverley",
+	"state": "Victoria",
+	"post_code": "3149",
+	"lat": "-37.875273",
+	"lon": "145.128398"
+}, {
+	"suburb": "Glen Waverley",
+	"state": "Victoria",
+	"post_code": "3150",
+	"lat": "-37.877631000000001",
+	"lon": "145.166222"
+}, {
+	"suburb": "Glen Waverley",
+	"state": "Victoria",
+	"post_code": "3150",
+	"lat": "-37.877631000000001",
+	"lon": "145.166222"
+}, {
+	"suburb": "Wheelers Hill",
+	"state": "Victoria",
+	"post_code": "3150",
+	"lat": "-37.909348999999999",
+	"lon": "145.188659"
+}, {
+	"suburb": "Burwood East",
+	"state": "Victoria",
+	"post_code": "3151",
+	"lat": "-37.858351999999996",
+	"lon": "145.138553"
+}, {
+	"suburb": "Wantirna",
+	"state": "Victoria",
+	"post_code": "3152",
+	"lat": "-37.847915",
+	"lon": "145.228757"
+}, {
+	"suburb": "Wantirna South",
+	"state": "Victoria",
+	"post_code": "3152",
+	"lat": "-37.868979000000003",
+	"lon": "145.23521099999999"
+}, {
+	"suburb": "Bayswater",
+	"state": "Victoria",
+	"post_code": "3153",
+	"lat": "-37.841259999999998",
+	"lon": "145.26672500000001"
+}, {
+	"suburb": "Bayswater North",
+	"state": "Victoria",
+	"post_code": "3153",
+	"lat": "-37.830300000000001",
+	"lon": "145.27509499999999"
+}, {
+	"suburb": "The Basin",
+	"state": "Victoria",
+	"post_code": "3154",
+	"lat": "-37.851467",
+	"lon": "145.30713299999999"
+}, {
+	"suburb": "Boronia",
+	"state": "Victoria",
+	"post_code": "3155",
+	"lat": "-37.861503999999996",
+	"lon": "145.27576199999999"
+}, {
+	"suburb": "Ferntree Gully",
+	"state": "Victoria",
+	"post_code": "3156",
+	"lat": "-37.883018999999997",
+	"lon": "145.29540399999999"
+}, {
+	"suburb": "Lysterfield",
+	"state": "Victoria",
+	"post_code": "3156",
+	"lat": "-37.926532999999999",
+	"lon": "145.30340200000001"
+}, {
+	"suburb": "Upper Ferntree Gully",
+	"state": "Victoria",
+	"post_code": "3156",
+	"lat": "-37.893512999999999",
+	"lon": "145.310777"
+}, {
+	"suburb": "Upwey",
+	"state": "Victoria",
+	"post_code": "3158",
+	"lat": "-37.903672",
+	"lon": "145.33131"
+}, {
+	"suburb": "Selby",
+	"state": "Victoria",
+	"post_code": "3159",
+	"lat": "-37.915182000000001",
+	"lon": "145.372016"
+}, {
+	"suburb": "Belgrave",
+	"state": "Victoria",
+	"post_code": "3160",
+	"lat": "-37.908422000000002",
+	"lon": "145.355075"
+}, {
+	"suburb": "Tecoma",
+	"state": "Victoria",
+	"post_code": "3160",
+	"lat": "-37.906626000000003",
+	"lon": "145.343987"
+}, {
+	"suburb": "Caulfield North",
+	"state": "Victoria",
+	"post_code": "3161",
+	"lat": "-37.901677999999997",
+	"lon": "145.02357000000001"
+}, {
+	"suburb": "Caulfield",
+	"state": "Victoria",
+	"post_code": "3162",
+	"lat": "-37.880479000000001",
+	"lon": "145.02680599999999"
+}, {
+	"suburb": "Caulfield",
+	"state": "Victoria",
+	"post_code": "3162",
+	"lat": "-37.880479000000001",
+	"lon": "145.02680599999999"
+}, {
+	"suburb": "Caulfield South",
+	"state": "Victoria",
+	"post_code": "3162",
+	"lat": "-37.886902999999997",
+	"lon": "145.02197899999999"
+}, {
+	"suburb": "Carnegie",
+	"state": "Victoria",
+	"post_code": "3163",
+	"lat": "-37.889336",
+	"lon": "145.058121"
+}, {
+	"suburb": "Glen Huntly",
+	"state": "Victoria",
+	"post_code": "3163",
+	"lat": "-37.889239000000003",
+	"lon": "145.040629"
+}, {
+	"suburb": "Murrumbeena",
+	"state": "Victoria",
+	"post_code": "3163",
+	"lat": "-37.890689999999999",
+	"lon": "145.067589"
+}, {
+	"suburb": "Bentleigh East",
+	"state": "Victoria",
+	"post_code": "3165",
+	"lat": "-37.927402000000001",
+	"lon": "145.05941200000001"
+}, {
+	"suburb": "Bentleigh East",
+	"state": "Victoria",
+	"post_code": "3165",
+	"lat": "-37.927402000000001",
+	"lon": "145.05941200000001"
+}, {
+	"suburb": "Hughesdale",
+	"state": "Victoria",
+	"post_code": "3166",
+	"lat": "-37.895763000000002",
+	"lon": "145.07654500000001"
+}, {
+	"suburb": "Huntingdale",
+	"state": "Victoria",
+	"post_code": "3166",
+	"lat": "-37.909346999999997",
+	"lon": "145.10384099999999"
+}, {
+	"suburb": "Oakleigh",
+	"state": "Victoria",
+	"post_code": "3166",
+	"lat": "-37.899853999999998",
+	"lon": "145.08711600000001"
+}, {
+	"suburb": "Oakleigh South",
+	"state": "Victoria",
+	"post_code": "3167",
+	"lat": "-37.926985999999999",
+	"lon": "145.09639999999999"
+}, {
+	"suburb": "Clayton",
+	"state": "Victoria",
+	"post_code": "3168",
+	"lat": "-37.925488000000001",
+	"lon": "145.11966200000001"
+}, {
+	"suburb": "Clarinda",
+	"state": "Victoria",
+	"post_code": "3169",
+	"lat": "-37.941228000000002",
+	"lon": "145.10244"
+}, {
+	"suburb": "Clayton South",
+	"state": "Victoria",
+	"post_code": "3169",
+	"lat": "-37.939214999999997",
+	"lon": "145.12662499999999"
+}, {
+	"suburb": "Mulgrave",
+	"state": "Victoria",
+	"post_code": "3170",
+	"lat": "-37.869610999999999",
+	"lon": "145.10286600000001"
+}, {
+	"suburb": "Springvale",
+	"state": "Victoria",
+	"post_code": "3171",
+	"lat": "-37.971029999999999",
+	"lon": "145.14849899999999"
+}, {
+	"suburb": "Dingley Village",
+	"state": "Victoria",
+	"post_code": "3172",
+	"lat": "-37.973323000000001",
+	"lon": "145.11994100000001"
+}, {
+	"suburb": "Springvale South",
+	"state": "Victoria",
+	"post_code": "3172",
+	"lat": "-37.971029999999999",
+	"lon": "145.14849899999999"
+}, {
+	"suburb": "Keysborough",
+	"state": "Victoria",
+	"post_code": "3173",
+	"lat": "-37.989707000000003",
+	"lon": "145.14903699999999"
+}, {
+	"suburb": "Noble Park",
+	"state": "Victoria",
+	"post_code": "3174",
+	"lat": "-37.967253999999997",
+	"lon": "145.17616699999999"
+}, {
+	"suburb": "Noble Park",
+	"state": "Victoria",
+	"post_code": "3174",
+	"lat": "-37.967253999999997",
+	"lon": "145.17616699999999"
+}, {
+	"suburb": "Noble Park East",
+	"state": "Victoria",
+	"post_code": "3174",
+	"lat": "-37.944879999999998",
+	"lon": "145.17965000000001"
+}, {
+	"suburb": "Noble Park North",
+	"state": "Victoria",
+	"post_code": "3174",
+	"lat": "-37.954700000000003",
+	"lon": "145.192117"
+}, {
+	"suburb": "Dandenong",
+	"state": "Victoria",
+	"post_code": "3175",
+	"lat": "-37.987271",
+	"lon": "145.21431699999999"
+}, {
+	"suburb": "Dandenong North",
+	"state": "Victoria",
+	"post_code": "3175",
+	"lat": "-37.965724000000002",
+	"lon": "145.205645"
+}, {
+	"suburb": "Doveton",
+	"state": "Victoria",
+	"post_code": "3177",
+	"lat": "-37.995244999999997",
+	"lon": "145.24015600000001"
+}, {
+	"suburb": "Rowville",
+	"state": "Victoria",
+	"post_code": "3178",
+	"lat": "-37.928004999999999",
+	"lon": "145.23581100000001"
+}, {
+	"suburb": "Rowville",
+	"state": "Victoria",
+	"post_code": "3178",
+	"lat": "-37.928004999999999",
+	"lon": "145.23581100000001"
+}, {
+	"suburb": "Rowville",
+	"state": "Victoria",
+	"post_code": "3178",
+	"lat": "-37.928004999999999",
+	"lon": "145.23581100000001"
+}, {
+	"suburb": "Scoresby",
+	"state": "Victoria",
+	"post_code": "3179",
+	"lat": "-37.864882999999999",
+	"lon": "145.26427000000001"
+}, {
+	"suburb": "Knoxfield",
+	"state": "Victoria",
+	"post_code": "3180",
+	"lat": "-37.888894999999998",
+	"lon": "145.24838299999999"
+}, {
+	"suburb": "Prahran",
+	"state": "Victoria",
+	"post_code": "3181",
+	"lat": "-37.849576999999996",
+	"lon": "144.99371400000001"
+}, {
+	"suburb": "Windsor",
+	"state": "Victoria",
+	"post_code": "3181",
+	"lat": "-37.856158999999998",
+	"lon": "144.9922"
+}, {
+	"suburb": "St Kilda",
+	"state": "Victoria",
+	"post_code": "3182",
+	"lat": "-37.867573",
+	"lon": "144.978814"
+}, {
+	"suburb": "St Kilda East",
+	"state": "Victoria",
+	"post_code": "3183",
+	"lat": "-37.866458000000002",
+	"lon": "145.000047"
+}, {
+	"suburb": "Elwood",
+	"state": "Victoria",
+	"post_code": "3184",
+	"lat": "-37.888120999999998",
+	"lon": "144.985026"
+}, {
+	"suburb": "Elsternwick",
+	"state": "Victoria",
+	"post_code": "3185",
+	"lat": "-37.884723999999999",
+	"lon": "145.004153"
+}, {
+	"suburb": "Brighton",
+	"state": "Victoria",
+	"post_code": "3186",
+	"lat": "-37.913148999999997",
+	"lon": "144.991682"
+}, {
+	"suburb": "Brighton East",
+	"state": "Victoria",
+	"post_code": "3187",
+	"lat": "-37.904879000000001",
+	"lon": "145.00260299999999"
+}, {
+	"suburb": "Moorabbin",
+	"state": "Victoria",
+	"post_code": "3189",
+	"lat": "-37.934351999999997",
+	"lon": "145.03673499999999"
+}, {
+	"suburb": "Highett",
+	"state": "Victoria",
+	"post_code": "3190",
+	"lat": "-37.947848",
+	"lon": "145.03429399999999"
+}, {
+	"suburb": "Highett",
+	"state": "Victoria",
+	"post_code": "3190",
+	"lat": "-37.947848",
+	"lon": "145.03429399999999"
+}, {
+	"suburb": "Sandringham",
+	"state": "Victoria",
+	"post_code": "3191",
+	"lat": "-37.952492999999997",
+	"lon": "145.012316"
+}, {
+	"suburb": "Cheltenham",
+	"state": "Victoria",
+	"post_code": "3192",
+	"lat": "-37.964509999999997",
+	"lon": "145.05587299999999"
+}, {
+	"suburb": "Cheltenham",
+	"state": "Victoria",
+	"post_code": "3192",
+	"lat": "-37.964509999999997",
+	"lon": "145.05587299999999"
+}, {
+	"suburb": "Beaumaris",
+	"state": "Victoria",
+	"post_code": "3193",
+	"lat": "-37.986285000000002",
+	"lon": "145.03287599999999"
+}, {
+	"suburb": "Black Rock",
+	"state": "Victoria",
+	"post_code": "3193",
+	"lat": "-37.973503000000001",
+	"lon": "145.01658"
+}, {
+	"suburb": "Mentone",
+	"state": "Victoria",
+	"post_code": "3194",
+	"lat": "-37.982858999999998",
+	"lon": "145.06489999999999"
+}, {
+	"suburb": "Moorabbin Airport",
+	"state": "Victoria",
+	"post_code": "3194",
+	"lat": "-37.977933999999998",
+	"lon": "145.09891999999999"
+}, {
+	"suburb": "Aspendale",
+	"state": "Victoria",
+	"post_code": "3195",
+	"lat": "-38.026479000000002",
+	"lon": "145.10190800000001"
+}, {
+	"suburb": "Aspendale Gardens",
+	"state": "Victoria",
+	"post_code": "3195",
+	"lat": "-38.023456000000003",
+	"lon": "145.11837399999999"
+}, {
+	"suburb": "Braeside",
+	"state": "Victoria",
+	"post_code": "3195",
+	"lat": "-38.008294999999997",
+	"lon": "145.11247800000001"
+}, {
+	"suburb": "Mordialloc",
+	"state": "Victoria",
+	"post_code": "3195",
+	"lat": "-38.007154",
+	"lon": "145.086849"
+}, {
+	"suburb": "Parkdale",
+	"state": "Victoria",
+	"post_code": "3195",
+	"lat": "-37.992659000000003",
+	"lon": "145.075479"
+}, {
+	"suburb": "Waterways",
+	"state": "Victoria",
+	"post_code": "3195",
+	"lat": "-38.008051000000002",
+	"lon": "145.11047300000001"
+}, {
+	"suburb": "Bonbeach",
+	"state": "Victoria",
+	"post_code": "3196",
+	"lat": "-38.062472",
+	"lon": "145.119404"
+}, {
+	"suburb": "Chelsea",
+	"state": "Victoria",
+	"post_code": "3196",
+	"lat": "-38.052346",
+	"lon": "145.11594099999999"
+}, {
+	"suburb": "Chelsea Heights",
+	"state": "Victoria",
+	"post_code": "3196",
+	"lat": "-38.045473000000001",
+	"lon": "145.13590099999999"
+}, {
+	"suburb": "Edithvale",
+	"state": "Victoria",
+	"post_code": "3196",
+	"lat": "-38.037415000000003",
+	"lon": "145.107846"
+}, {
+	"suburb": "Carrum",
+	"state": "Victoria",
+	"post_code": "3197",
+	"lat": "-38.076363999999998",
+	"lon": "145.12320500000001"
+}, {
+	"suburb": "Patterson Lakes",
+	"state": "Victoria",
+	"post_code": "3197",
+	"lat": "-38.067368000000002",
+	"lon": "145.14476199999999"
+}, {
+	"suburb": "Seaford",
+	"state": "Victoria",
+	"post_code": "3198",
+	"lat": "-38.110191",
+	"lon": "145.14251200000001"
+}, {
+	"suburb": "Frankston",
+	"state": "Victoria",
+	"post_code": "3199",
+	"lat": "-38.145001000000001",
+	"lon": "145.122477"
+}, {
+	"suburb": "Frankston South",
+	"state": "Victoria",
+	"post_code": "3199",
+	"lat": "-38.156537999999998",
+	"lon": "145.123524"
+}, {
+	"suburb": "Frankston North",
+	"state": "Victoria",
+	"post_code": "3200",
+	"lat": "-38.165002000000001",
+	"lon": "145.18859499999999"
+}, {
+	"suburb": "Carrum Downs",
+	"state": "Victoria",
+	"post_code": "3201",
+	"lat": "-38.090783000000002",
+	"lon": "145.19171900000001"
+}, {
+	"suburb": "Heatherton",
+	"state": "Victoria",
+	"post_code": "3202",
+	"lat": "-37.969954000000001",
+	"lon": "145.21416400000001"
+}, {
+	"suburb": "Bentleigh",
+	"state": "Victoria",
+	"post_code": "3204",
+	"lat": "-37.918056999999997",
+	"lon": "145.03544400000001"
+}, {
+	"suburb": "McKinnon",
+	"state": "Victoria",
+	"post_code": "3204",
+	"lat": "-37.910966999999999",
+	"lon": "145.03748300000001"
+}, {
+	"suburb": "Ormond",
+	"state": "Victoria",
+	"post_code": "3204",
+	"lat": "-37.904058999999997",
+	"lon": "145.040899"
+}, {
+	"suburb": "South Melbourne",
+	"state": "Victoria",
+	"post_code": "3205",
+	"lat": "-37.93291",
+	"lon": "145.03371799999999"
+}, {
+	"suburb": "Albert Park",
+	"state": "Victoria",
+	"post_code": "3206",
+	"lat": "-37.840705",
+	"lon": "144.95571000000001"
+}, {
+	"suburb": "Port Melbourne",
+	"state": "Victoria",
+	"post_code": "3207",
+	"lat": "-37.975681999999999",
+	"lon": "145.03046800000001"
+}, {
+	"suburb": "Lara",
+	"state": "Victoria",
+	"post_code": "3212",
+	"lat": "-38.022416",
+	"lon": "144.40789100000001"
+}, {
+	"suburb": "Corio",
+	"state": "Victoria",
+	"post_code": "3214",
+	"lat": "-38.074162000000001",
+	"lon": "144.35865899999999"
+}, {
+	"suburb": "Norlane",
+	"state": "Victoria",
+	"post_code": "3214",
+	"lat": "-38.099497999999997",
+	"lon": "144.36098200000001"
+}, {
+	"suburb": "Bell Park",
+	"state": "Victoria",
+	"post_code": "3215",
+	"lat": "-38.113737999999998",
+	"lon": "144.330983"
+}, {
+	"suburb": "Hamlyn Heights",
+	"state": "Victoria",
+	"post_code": "3215",
+	"lat": "-38.121955999999997",
+	"lon": "144.32805099999999"
+}, {
+	"suburb": "North Geelong",
+	"state": "Victoria",
+	"post_code": "3215",
+	"lat": "-38.110821999999999",
+	"lon": "144.34340599999999"
+}, {
+	"suburb": "Belmont",
+	"state": "Victoria",
+	"post_code": "3216",
+	"lat": "-38.175587",
+	"lon": "144.34266600000001"
+}, {
+	"suburb": "Grovedale",
+	"state": "Victoria",
+	"post_code": "3216",
+	"lat": "-38.200538000000002",
+	"lon": "144.32368299999999"
+}, {
+	"suburb": "Highton",
+	"state": "Victoria",
+	"post_code": "3216",
+	"lat": "-38.170938",
+	"lon": "144.31905"
+}, {
+	"suburb": "Geelong West",
+	"state": "Victoria",
+	"post_code": "3218",
+	"lat": "-38.142147999999999",
+	"lon": "144.348006"
+}, {
+	"suburb": "Newcomb",
+	"state": "Victoria",
+	"post_code": "3219",
+	"lat": "-38.169089",
+	"lon": "144.38738799999999"
+}, {
+	"suburb": "Geelong",
+	"state": "Victoria",
+	"post_code": "3220",
+	"lat": "-38.147289999999998",
+	"lon": "144.36073500000001"
+}, {
+	"suburb": "Newtown",
+	"state": "Victoria",
+	"post_code": "3220",
+	"lat": "-38.153717",
+	"lon": "144.33497700000001"
+}, {
+	"suburb": "Moolap",
+	"state": "Victoria",
+	"post_code": "3221",
+	"lat": "-38.173006000000001",
+	"lon": "144.421246"
+}, {
+	"suburb": "Clifton Springs",
+	"state": "Victoria",
+	"post_code": "3222",
+	"lat": "-38.15748",
+	"lon": "144.56154100000001"
+}, {
+	"suburb": "Portarlington",
+	"state": "Victoria",
+	"post_code": "3223",
+	"lat": "-38.114835999999997",
+	"lon": "144.65141399999999"
+}, {
+	"suburb": "Leopold",
+	"state": "Victoria",
+	"post_code": "3224",
+	"lat": "-38.183967000000003",
+	"lon": "144.459914"
+}, {
+	"suburb": "Point Lonsdale",
+	"state": "Victoria",
+	"post_code": "3225",
+	"lat": "-38.286113",
+	"lon": "144.61448899999999"
+}, {
+	"suburb": "Queenscliff",
+	"state": "Victoria",
+	"post_code": "3225",
+	"lat": "-38.267113000000002",
+	"lon": "144.66132899999999"
+}, {
+	"suburb": "Ocean Grove",
+	"state": "Victoria",
+	"post_code": "3226",
+	"lat": "-38.270293000000002",
+	"lon": "144.54077799999999"
+}, {
+	"suburb": "Barwon Heads",
+	"state": "Victoria",
+	"post_code": "3227",
+	"lat": "-38.281078000000001",
+	"lon": "144.49179000000001"
+}, {
+	"suburb": "Torquay",
+	"state": "Victoria",
+	"post_code": "3228",
+	"lat": "-38.332818000000003",
+	"lon": "144.32389000000001"
+}, {
+	"suburb": "Anglesea",
+	"state": "Victoria",
+	"post_code": "3230",
+	"lat": "-38.405129000000002",
+	"lon": "144.189268"
+}, {
+	"suburb": "Lorne",
+	"state": "Victoria",
+	"post_code": "3232",
+	"lat": "-38.518801000000003",
+	"lon": "143.99579"
+}, {
+	"suburb": "Cape Otway",
+	"state": "Victoria",
+	"post_code": "3233",
+	"lat": "-38.852975999999998",
+	"lon": "143.52278200000001"
+}, {
+	"suburb": "Winchelsea",
+	"state": "Victoria",
+	"post_code": "3241",
+	"lat": "-38.243461000000003",
+	"lon": "143.98929699999999"
+}, {
+	"suburb": "Colac",
+	"state": "Victoria",
+	"post_code": "3250",
+	"lat": "-38.339297999999999",
+	"lon": "143.58166"
+}, {
+	"suburb": "Colac",
+	"state": "Victoria",
+	"post_code": "3250",
+	"lat": "-38.339297999999999",
+	"lon": "143.58166"
+}, {
+	"suburb": "Camperdown",
+	"state": "Victoria",
+	"post_code": "3260",
+	"lat": "-38.232708000000002",
+	"lon": "143.14691099999999"
+}, {
+	"suburb": "Warrnambool",
+	"state": "Victoria",
+	"post_code": "3280",
+	"lat": "-38.383313000000001",
+	"lon": "142.48295899999999"
+}, {
+	"suburb": "Warrnambool",
+	"state": "Victoria",
+	"post_code": "3280",
+	"lat": "-38.383313000000001",
+	"lon": "142.48295899999999"
+}, {
+	"suburb": "Hamilton",
+	"state": "Victoria",
+	"post_code": "3300",
+	"lat": "-37.743025000000003",
+	"lon": "142.02006499999999"
+}, {
+	"suburb": "Portland",
+	"state": "Victoria",
+	"post_code": "3305",
+	"lat": "-38.351031999999996",
+	"lon": "141.58770100000001"
+}, {
+	"suburb": "Grampians",
+	"state": "Victoria",
+	"post_code": "3314",
+	"lat": "-37.316713999999997",
+	"lon": "142.48407599999999"
+}, {
+	"suburb": "Bannockburn",
+	"state": "Victoria",
+	"post_code": "3331",
+	"lat": "-38.046528000000002",
+	"lon": "144.17106699999999"
+}, {
+	"suburb": "Rockbank",
+	"state": "Victoria",
+	"post_code": "3335",
+	"lat": "-37.729118999999997",
+	"lon": "144.650778"
+}, {
+	"suburb": "Melton",
+	"state": "Victoria",
+	"post_code": "3337",
+	"lat": "-37.683205999999998",
+	"lon": "144.58314999999999"
+}, {
+	"suburb": "Melton West",
+	"state": "Victoria",
+	"post_code": "3337",
+	"lat": "-37.684849",
+	"lon": "144.56069099999999"
+}, {
+	"suburb": "Melton South",
+	"state": "Victoria",
+	"post_code": "3338",
+	"lat": "-37.704323000000002",
+	"lon": "144.57481799999999"
+}, {
+	"suburb": "Bacchus Marsh",
+	"state": "Victoria",
+	"post_code": "3340",
+	"lat": "-37.675854999999999",
+	"lon": "144.43766299999999"
+}, {
+	"suburb": "Bacchus Marsh",
+	"state": "Victoria",
+	"post_code": "3340",
+	"lat": "-37.675854999999999",
+	"lon": "144.43766299999999"
+}, {
+	"suburb": "Gordon",
+	"state": "Victoria",
+	"post_code": "3345",
+	"lat": "-37.594546000000001",
+	"lon": "144.099862"
+}, {
+	"suburb": "Alfredton",
+	"state": "Victoria",
+	"post_code": "3350",
+	"lat": "-37.556958000000002",
+	"lon": "143.81722500000001"
+}, {
+	"suburb": "Ballarat",
+	"state": "Victoria",
+	"post_code": "3350",
+	"lat": "-37.563318000000002",
+	"lon": "143.86371500000001"
+}, {
+	"suburb": "Ballarat",
+	"state": "Victoria",
+	"post_code": "3350",
+	"lat": "-37.563318000000002",
+	"lon": "143.86371500000001"
+}, {
+	"suburb": "Ballarat North",
+	"state": "Victoria",
+	"post_code": "3350",
+	"lat": "-37.536898999999998",
+	"lon": "143.862448"
+}, {
+	"suburb": "Smythes Creek",
+	"state": "Victoria",
+	"post_code": "3351",
+	"lat": "-37.596826999999998",
+	"lon": "143.768269"
+}, {
+	"suburb": "Miners Rest",
+	"state": "Victoria",
+	"post_code": "3352",
+	"lat": "-37.484448999999998",
+	"lon": "143.80235300000001"
+}, {
+	"suburb": "Wendouree",
+	"state": "Victoria",
+	"post_code": "3355",
+	"lat": "-37.540219999999998",
+	"lon": "143.83129700000001"
+}, {
+	"suburb": "Delacombe",
+	"state": "Victoria",
+	"post_code": "3356",
+	"lat": "-37.584530000000001",
+	"lon": "143.80766199999999"
+}, {
+	"suburb": "Buninyong",
+	"state": "Victoria",
+	"post_code": "3357",
+	"lat": "-37.648547000000001",
+	"lon": "143.91856300000001"
+}, {
+	"suburb": "Creswick",
+	"state": "Victoria",
+	"post_code": "3363",
+	"lat": "-37.424838000000001",
+	"lon": "143.89448300000001"
+}, {
+	"suburb": "Ascot",
+	"state": "Victoria",
+	"post_code": "3364",
+	"lat": "-37.400880000000001",
+	"lon": "143.80251100000001"
+}, {
+	"suburb": "Clunes",
+	"state": "Victoria",
+	"post_code": "3370",
+	"lat": "-37.293942000000001",
+	"lon": "143.787341"
+}, {
+	"suburb": "Beaufort",
+	"state": "Victoria",
+	"post_code": "3373",
+	"lat": "-37.429811999999998",
+	"lon": "143.38370900000001"
+}, {
+	"suburb": "Ararat",
+	"state": "Victoria",
+	"post_code": "3377",
+	"lat": "-37.284300999999999",
+	"lon": "142.92822699999999"
+}, {
+	"suburb": "Ararat",
+	"state": "Victoria",
+	"post_code": "3377",
+	"lat": "-37.284300999999999",
+	"lon": "142.92822699999999"
+}, {
+	"suburb": "Stawell",
+	"state": "Victoria",
+	"post_code": "3380",
+	"lat": "-37.055661000000001",
+	"lon": "142.77938"
+}, {
+	"suburb": "Horsham",
+	"state": "Victoria",
+	"post_code": "3400",
+	"lat": "-36.711714000000001",
+	"lon": "142.20489900000001"
+}, {
+	"suburb": "Horsham",
+	"state": "Victoria",
+	"post_code": "3400",
+	"lat": "-36.711714000000001",
+	"lon": "142.20489900000001"
+}, {
+	"suburb": "Sunbury",
+	"state": "Victoria",
+	"post_code": "3429",
+	"lat": "-37.576858999999999",
+	"lon": "144.731425"
+}, {
+	"suburb": "Sunbury",
+	"state": "Victoria",
+	"post_code": "3429",
+	"lat": "-37.576858999999999",
+	"lon": "144.731425"
+}, {
+	"suburb": "Riddells Creek",
+	"state": "Victoria",
+	"post_code": "3431",
+	"lat": "-37.463999000000001",
+	"lon": "144.66504800000001"
+}, {
+	"suburb": "Romsey",
+	"state": "Victoria",
+	"post_code": "3434",
+	"lat": "-37.348922999999999",
+	"lon": "144.74235899999999"
+}, {
+	"suburb": "Gisborne",
+	"state": "Victoria",
+	"post_code": "3437",
+	"lat": "-37.488036999999998",
+	"lon": "144.59111999999999"
+}, {
+	"suburb": "Macedon",
+	"state": "Victoria",
+	"post_code": "3440",
+	"lat": "-37.399583999999997",
+	"lon": "144.58840499999999"
+}, {
+	"suburb": "Woodend",
+	"state": "Victoria",
+	"post_code": "3442",
+	"lat": "-37.356810000000003",
+	"lon": "144.52726999999999"
+}, {
+	"suburb": "Kyneton",
+	"state": "Victoria",
+	"post_code": "3444",
+	"lat": "-37.248466999999998",
+	"lon": "144.45335399999999"
+}, {
+	"suburb": "Castlemaine",
+	"state": "Victoria",
+	"post_code": "3450",
+	"lat": "-37.063868999999997",
+	"lon": "144.21710100000001"
+}, {
+	"suburb": "Castlemaine",
+	"state": "Victoria",
+	"post_code": "3450",
+	"lat": "-37.063868999999997",
+	"lon": "144.21710100000001"
+}, {
+	"suburb": "Daylesford",
+	"state": "Victoria",
+	"post_code": "3460",
+	"lat": "-37.343586999999999",
+	"lon": "144.14232100000001"
+}, {
+	"suburb": "Maryborough",
+	"state": "Victoria",
+	"post_code": "3465",
+	"lat": "-37.048386999999998",
+	"lon": "143.735409"
+}, {
+	"suburb": "Avoca",
+	"state": "Victoria",
+	"post_code": "3467",
+	"lat": "-37.088538999999997",
+	"lon": "143.47379799999999"
+}, {
+	"suburb": "St Arnaud",
+	"state": "Victoria",
+	"post_code": "3478",
+	"lat": "-36.615023999999998",
+	"lon": "143.25685200000001"
+}, {
+	"suburb": "Lake Buloke",
+	"state": "Victoria",
+	"post_code": "3480",
+	"lat": "-36.202162000000001",
+	"lon": "142.985275"
+}, {
+	"suburb": "Red Cliffs",
+	"state": "Victoria",
+	"post_code": "3496",
+	"lat": "-34.308352999999997",
+	"lon": "142.18653399999999"
+}, {
+	"suburb": "Irymple",
+	"state": "Victoria",
+	"post_code": "3498",
+	"lat": "-34.234603999999997",
+	"lon": "142.181724"
+}, {
+	"suburb": "Mildura",
+	"state": "Victoria",
+	"post_code": "3500",
+	"lat": "-34.181713999999999",
+	"lon": "142.163072"
+}, {
+	"suburb": "Mildura South",
+	"state": "Victoria",
+	"post_code": "3501",
+	"lat": "-34.244731999999999",
+	"lon": "142.090351"
+}, {
+	"suburb": "Merbein",
+	"state": "Victoria",
+	"post_code": "3505",
+	"lat": "-34.167929000000001",
+	"lon": "142.06086099999999"
+}, {
+	"suburb": "Heathcote",
+	"state": "Victoria",
+	"post_code": "3523",
+	"lat": "-36.922052000000001",
+	"lon": "144.70890800000001"
+}, {
+	"suburb": "Robinvale",
+	"state": "Victoria",
+	"post_code": "3549",
+	"lat": "-34.590121000000003",
+	"lon": "142.772064"
+}, {
+	"suburb": "Bendigo",
+	"state": "Victoria",
+	"post_code": "3550",
+	"lat": "-36.758491999999997",
+	"lon": "144.28007500000001"
+}, {
+	"suburb": "Bendigo",
+	"state": "Victoria",
+	"post_code": "3550",
+	"lat": "-36.758491999999997",
+	"lon": "144.28007500000001"
+}, {
+	"suburb": "Bendigo South",
+	"state": "Victoria",
+	"post_code": "3550",
+	"lat": "-36.771920999999999",
+	"lon": "144.29116200000001"
+}, {
+	"suburb": "East Bendigo",
+	"state": "Victoria",
+	"post_code": "3550",
+	"lat": "-36.749405000000003",
+	"lon": "144.30275"
+}, {
+	"suburb": "Flora Hill",
+	"state": "Victoria",
+	"post_code": "3550",
+	"lat": "-36.774405000000002",
+	"lon": "144.290098"
+}, {
+	"suburb": "Kennington",
+	"state": "Victoria",
+	"post_code": "3550",
+	"lat": "-36.767541999999999",
+	"lon": "144.30190300000001"
+}, {
+	"suburb": "Spring Gully",
+	"state": "Victoria",
+	"post_code": "3550",
+	"lat": "-36.803325000000001",
+	"lon": "144.28966199999999"
+}, {
+	"suburb": "White Hills",
+	"state": "Victoria",
+	"post_code": "3550",
+	"lat": "-36.730249999999998",
+	"lon": "144.30749700000001"
+}, {
+	"suburb": "Maiden Gully",
+	"state": "Victoria",
+	"post_code": "3551",
+	"lat": "-36.742983000000002",
+	"lon": "144.21134900000001"
+}, {
+	"suburb": "Strathfieldsaye",
+	"state": "Victoria",
+	"post_code": "3551",
+	"lat": "-36.806319999999999",
+	"lon": "144.35535100000001"
+}, {
+	"suburb": "Golden Square",
+	"state": "Victoria",
+	"post_code": "3555",
+	"lat": "-36.774861999999999",
+	"lon": "144.26316800000001"
+}, {
+	"suburb": "Kangaroo Flat",
+	"state": "Victoria",
+	"post_code": "3555",
+	"lat": "-36.796875999999997",
+	"lon": "144.24397300000001"
+}, {
+	"suburb": "California Gully",
+	"state": "Victoria",
+	"post_code": "3556",
+	"lat": "-36.732655999999999",
+	"lon": "144.25717299999999"
+}, {
+	"suburb": "Eaglehawk",
+	"state": "Victoria",
+	"post_code": "3556",
+	"lat": "-36.717863999999999",
+	"lon": "144.25254100000001"
+}, {
+	"suburb": "Rochester",
+	"state": "Victoria",
+	"post_code": "3561",
+	"lat": "-36.361457999999999",
+	"lon": "144.70132799999999"
+}, {
+	"suburb": "Lockington",
+	"state": "Victoria",
+	"post_code": "3563",
+	"lat": "-36.271227000000003",
+	"lon": "144.481629"
+}, {
+	"suburb": "Echuca",
+	"state": "Victoria",
+	"post_code": "3564",
+	"lat": "-36.128658999999999",
+	"lon": "144.748178"
+}, {
+	"suburb": "Gunbower",
+	"state": "Victoria",
+	"post_code": "3566",
+	"lat": "-35.957441000000003",
+	"lon": "144.366659"
+}, {
+	"suburb": "Gannawarra",
+	"state": "Victoria",
+	"post_code": "3568",
+	"lat": "-35.711438000000001",
+	"lon": "144.14635100000001"
+}, {
+	"suburb": "Kerang",
+	"state": "Victoria",
+	"post_code": "3579",
+	"lat": "-35.735048999999997",
+	"lon": "143.918869"
+}, {
+	"suburb": "Swan Hill",
+	"state": "Victoria",
+	"post_code": "3585",
+	"lat": "-35.336174999999997",
+	"lon": "143.560181"
+}, {
+	"suburb": "Nagambie",
+	"state": "Victoria",
+	"post_code": "3608",
+	"lat": "-36.785679999999999",
+	"lon": "145.153795"
+}, {
+	"suburb": "Rushworth",
+	"state": "Victoria",
+	"post_code": "3612",
+	"lat": "-36.585838000000003",
+	"lon": "145.01552000000001"
+}, {
+	"suburb": "Kyabram",
+	"state": "Victoria",
+	"post_code": "3619",
+	"lat": "-37.659565999999998",
+	"lon": "144.936295"
+}, {
+	"suburb": "Mooroopna",
+	"state": "Victoria",
+	"post_code": "3629",
+	"lat": "-36.394652000000001",
+	"lon": "145.35781700000001"
+}, {
+	"suburb": "Shepparton",
+	"state": "Victoria",
+	"post_code": "3630",
+	"lat": "-36.381171000000002",
+	"lon": "145.39929000000001"
+}, {
+	"suburb": "Shepparton",
+	"state": "Victoria",
+	"post_code": "3630",
+	"lat": "-36.381171000000002",
+	"lon": "145.39929000000001"
+}, {
+	"suburb": "Shepparton South",
+	"state": "Victoria",
+	"post_code": "3630",
+	"lat": "-36.402124000000001",
+	"lon": "145.40123299999999"
+}, {
+	"suburb": "Shepparton East",
+	"state": "Victoria",
+	"post_code": "3631",
+	"lat": "-36.401814999999999",
+	"lon": "145.479949"
+}, {
+	"suburb": "Shepparton North",
+	"state": "Victoria",
+	"post_code": "3631",
+	"lat": "-36.336826000000002",
+	"lon": "145.40224000000001"
+}, {
+	"suburb": "Numurkah",
+	"state": "Victoria",
+	"post_code": "3636",
+	"lat": "-36.092337000000001",
+	"lon": "145.43174300000001"
+}, {
+	"suburb": "Cobram",
+	"state": "Victoria",
+	"post_code": "3643",
+	"lat": "-35.955362999999998",
+	"lon": "145.63187400000001"
+}, {
+	"suburb": "Broadford",
+	"state": "Victoria",
+	"post_code": "3658",
+	"lat": "-37.203001",
+	"lon": "145.05017100000001"
+}, {
+	"suburb": "Seymour",
+	"state": "Victoria",
+	"post_code": "3660",
+	"lat": "-37.025311000000002",
+	"lon": "145.13414800000001"
+}, {
+	"suburb": "Seymour",
+	"state": "Victoria",
+	"post_code": "3660",
+	"lat": "-37.025311000000002",
+	"lon": "145.13414800000001"
+}, {
+	"suburb": "Euroa",
+	"state": "Victoria",
+	"post_code": "3666",
+	"lat": "-36.755892000000003",
+	"lon": "145.57134099999999"
+}, {
+	"suburb": "Benalla",
+	"state": "Victoria",
+	"post_code": "3671",
+	"lat": "-36.385143999999997",
+	"lon": "145.42069100000001"
+}, {
+	"suburb": "Benalla",
+	"state": "Victoria",
+	"post_code": "3671",
+	"lat": "-36.385143999999997",
+	"lon": "145.42069100000001"
+}, {
+	"suburb": "Wangaratta",
+	"state": "Victoria",
+	"post_code": "3676",
+	"lat": "-36.341245000000001",
+	"lon": "146.33861200000001"
+}, {
+	"suburb": "Chiltern",
+	"state": "Victoria",
+	"post_code": "3683",
+	"lat": "-36.148307000000003",
+	"lon": "146.610311"
+}, {
+	"suburb": "Rutherglen",
+	"state": "Victoria",
+	"post_code": "3685",
+	"lat": "-36.053735000000003",
+	"lon": "146.459262"
+}, {
+	"suburb": "Indigo Valley",
+	"state": "Victoria",
+	"post_code": "3688",
+	"lat": "-36.180107999999997",
+	"lon": "146.71887799999999"
+}, {
+	"suburb": "Wodonga",
+	"state": "Victoria",
+	"post_code": "3689",
+	"lat": "-37.675759999999997",
+	"lon": "144.98979299999999"
+}, {
+	"suburb": "West Wodonga",
+	"state": "Victoria",
+	"post_code": "3690",
+	"lat": "-36.099767999999997",
+	"lon": "146.82114899999999"
+}, {
+	"suburb": "Mount Beauty",
+	"state": "Victoria",
+	"post_code": "3699",
+	"lat": "-36.744504999999997",
+	"lon": "147.17135400000001"
+}, {
+	"suburb": "Towong",
+	"state": "Victoria",
+	"post_code": "3707",
+	"lat": "-36.194474",
+	"lon": "148.01933700000001"
+}, {
+	"suburb": "Alexandra",
+	"state": "Victoria",
+	"post_code": "3714",
+	"lat": "-37.191307000000002",
+	"lon": "145.711061"
+}, {
+	"suburb": "Yea",
+	"state": "Victoria",
+	"post_code": "3717",
+	"lat": "-37.212246999999998",
+	"lon": "145.42388"
+}, {
+	"suburb": "Mansfield",
+	"state": "Victoria",
+	"post_code": "3722",
+	"lat": "-37.052321999999997",
+	"lon": "146.08788699999999"
+}, {
+	"suburb": "Yarrawonga",
+	"state": "Victoria",
+	"post_code": "3730",
+	"lat": "-36.011037999999999",
+	"lon": "146.00464299999999"
+}, {
+	"suburb": "Myrtleford",
+	"state": "Victoria",
+	"post_code": "3736",
+	"lat": "-36.455136000000003",
+	"lon": "146.479489"
+}, {
+	"suburb": "Bright",
+	"state": "Victoria",
+	"post_code": "3741",
+	"lat": "-36.727237000000002",
+	"lon": "146.96049099999999"
+}, {
+	"suburb": "Beechworth",
+	"state": "Victoria",
+	"post_code": "3747",
+	"lat": "-36.360340999999998",
+	"lon": "146.68796599999999"
+}, {
+	"suburb": "Yackandandah",
+	"state": "Victoria",
+	"post_code": "3749",
+	"lat": "-36.31297",
+	"lon": "146.83790300000001"
+}, {
+	"suburb": "Wollert",
+	"state": "Victoria",
+	"post_code": "3750",
+	"lat": "-38.380955",
+	"lon": "144.81191100000001"
+}, {
+	"suburb": "South Morang",
+	"state": "Victoria",
+	"post_code": "3752",
+	"lat": "-37.653073999999997",
+	"lon": "145.095043"
+}, {
+	"suburb": "South Morang",
+	"state": "Victoria",
+	"post_code": "3752",
+	"lat": "-37.653073999999997",
+	"lon": "145.095043"
+}, {
+	"suburb": "Doreen",
+	"state": "Victoria",
+	"post_code": "3754",
+	"lat": "-37.617671000000001",
+	"lon": "145.154899"
+}, {
+	"suburb": "Mernda",
+	"state": "Victoria",
+	"post_code": "3754",
+	"lat": "-37.594768999999999",
+	"lon": "145.10158100000001"
+}, {
+	"suburb": "Wallan",
+	"state": "Victoria",
+	"post_code": "3756",
+	"lat": "-37.413086",
+	"lon": "144.97939400000001"
+}, {
+	"suburb": "Whittlesea",
+	"state": "Victoria",
+	"post_code": "3757",
+	"lat": "-37.513714",
+	"lon": "145.11508900000001"
+}, {
+	"suburb": "Panton Hill",
+	"state": "Victoria",
+	"post_code": "3759",
+	"lat": "-37.641393999999998",
+	"lon": "145.24008599999999"
+}, {
+	"suburb": "Kinglake",
+	"state": "Victoria",
+	"post_code": "3763",
+	"lat": "-37.481664000000002",
+	"lon": "145.277344"
+}, {
+	"suburb": "Kilmore",
+	"state": "Victoria",
+	"post_code": "3764",
+	"lat": "-37.296087",
+	"lon": "144.95210499999999"
+}, {
+	"suburb": "Montrose",
+	"state": "Victoria",
+	"post_code": "3765",
+	"lat": "-37.805976000000001",
+	"lon": "145.33951400000001"
+}, {
+	"suburb": "Mount Dandenong",
+	"state": "Victoria",
+	"post_code": "3767",
+	"lat": "-37.835062000000001",
+	"lon": "145.357831"
+}, {
+	"suburb": "Coldstream",
+	"state": "Victoria",
+	"post_code": "3770",
+	"lat": "-37.724701000000003",
+	"lon": "145.37859599999999"
+}, {
+	"suburb": "Yarra Glen",
+	"state": "Victoria",
+	"post_code": "3775",
+	"lat": "-37.658493999999997",
+	"lon": "145.374347"
+}, {
+	"suburb": "Healesville",
+	"state": "Victoria",
+	"post_code": "3777",
+	"lat": "-37.654136999999999",
+	"lon": "145.516188"
+}, {
+	"suburb": "Cockatoo",
+	"state": "Victoria",
+	"post_code": "3781",
+	"lat": "-37.936259999999997",
+	"lon": "145.49136999999999"
+}, {
+	"suburb": "Emerald",
+	"state": "Victoria",
+	"post_code": "3782",
+	"lat": "-37.932085000000001",
+	"lon": "145.44074000000001"
+}, {
+	"suburb": "Olinda",
+	"state": "Victoria",
+	"post_code": "3788",
+	"lat": "-37.859839999999998",
+	"lon": "145.36383499999999"
+}, {
+	"suburb": "Monbulk",
+	"state": "Victoria",
+	"post_code": "3793",
+	"lat": "-37.867677999999998",
+	"lon": "145.40866399999999"
+}, {
+	"suburb": "Silvan",
+	"state": "Victoria",
+	"post_code": "3795",
+	"lat": "-37.844150999999997",
+	"lon": "145.41344699999999"
+}, {
+	"suburb": "Mount Evelyn",
+	"state": "Victoria",
+	"post_code": "3796",
+	"lat": "-37.792515000000002",
+	"lon": "145.37560500000001"
+}, {
+	"suburb": "Endeavour Hills",
+	"state": "Victoria",
+	"post_code": "3802",
+	"lat": "-37.975281000000003",
+	"lon": "145.254481"
+}, {
+	"suburb": "Endeavour Hills",
+	"state": "Victoria",
+	"post_code": "3802",
+	"lat": "-37.975281000000003",
+	"lon": "145.254481"
+}, {
+	"suburb": "Hallam",
+	"state": "Victoria",
+	"post_code": "3803",
+	"lat": "-38.004302000000003",
+	"lon": "145.269261"
+}, {
+	"suburb": "Narre Warren East",
+	"state": "Victoria",
+	"post_code": "3804",
+	"lat": "-37.96602",
+	"lon": "145.363213"
+}, {
+	"suburb": "Narre Warren North",
+	"state": "Victoria",
+	"post_code": "3804",
+	"lat": "-37.981130999999998",
+	"lon": "145.315271"
+}, {
+	"suburb": "Narre Warren North",
+	"state": "Victoria",
+	"post_code": "3804",
+	"lat": "-37.981130999999998",
+	"lon": "145.315271"
+}, {
+	"suburb": "Narre Warren",
+	"state": "Victoria",
+	"post_code": "3805",
+	"lat": "-38.026383000000003",
+	"lon": "145.30693299999999"
+}, {
+	"suburb": "Narre Warren",
+	"state": "Victoria",
+	"post_code": "3805",
+	"lat": "-38.026383000000003",
+	"lon": "145.30693299999999"
+}, {
+	"suburb": "Narre Warren South",
+	"state": "Victoria",
+	"post_code": "3805",
+	"lat": "-38.050060999999999",
+	"lon": "145.298191"
+}, {
+	"suburb": "Narre Warren South",
+	"state": "Victoria",
+	"post_code": "3805",
+	"lat": "-38.050060999999999",
+	"lon": "145.298191"
+}, {
+	"suburb": "Berwick",
+	"state": "Victoria",
+	"post_code": "3806",
+	"lat": "-38.030467000000002",
+	"lon": "145.34462099999999"
+}, {
+	"suburb": "Beaconsfield",
+	"state": "Victoria",
+	"post_code": "3807",
+	"lat": "-38.045158999999998",
+	"lon": "145.36745999999999"
+}, {
+	"suburb": "Officer",
+	"state": "Victoria",
+	"post_code": "3809",
+	"lat": "-38.063056000000003",
+	"lon": "145.40958000000001"
+}, {
+	"suburb": "Pakenham",
+	"state": "Victoria",
+	"post_code": "3810",
+	"lat": "-38.077354999999997",
+	"lon": "145.493402"
+}, {
+	"suburb": "Pakenham",
+	"state": "Victoria",
+	"post_code": "3810",
+	"lat": "-38.077354999999997",
+	"lon": "145.493402"
+}, {
+	"suburb": "Pakenham South",
+	"state": "Victoria",
+	"post_code": "3810",
+	"lat": "-38.133232",
+	"lon": "145.50776099999999"
+}, {
+	"suburb": "Garfield",
+	"state": "Victoria",
+	"post_code": "3814",
+	"lat": "-38.092171",
+	"lon": "145.67700400000001"
+}, {
+	"suburb": "Bunyip",
+	"state": "Victoria",
+	"post_code": "3815",
+	"lat": "-38.097079999999998",
+	"lon": "145.71549200000001"
+}, {
+	"suburb": "Drouin",
+	"state": "Victoria",
+	"post_code": "3818",
+	"lat": "-38.136918999999999",
+	"lon": "145.858699"
+}, {
+	"suburb": "Warragul",
+	"state": "Victoria",
+	"post_code": "3820",
+	"lat": "-38.163057999999999",
+	"lon": "145.93086"
+}, {
+	"suburb": "Trafalgar",
+	"state": "Victoria",
+	"post_code": "3824",
+	"lat": "-38.208030000000001",
+	"lon": "146.15138200000001"
+}, {
+	"suburb": "Moe",
+	"state": "Victoria",
+	"post_code": "3825",
+	"lat": "-38.176608999999999",
+	"lon": "146.26485099999999"
+}, {
+	"suburb": "Newborough",
+	"state": "Victoria",
+	"post_code": "3825",
+	"lat": "-38.183607000000002",
+	"lon": "146.288321"
+}, {
+	"suburb": "Yallourn North",
+	"state": "Victoria",
+	"post_code": "3825",
+	"lat": "-38.163902999999998",
+	"lon": "146.36200099999999"
+}, {
+	"suburb": "Mt Baw Baw",
+	"state": "Victoria",
+	"post_code": "3833",
+	"lat": "-37.887228",
+	"lon": "146.07581300000001"
+}, {
+	"suburb": "Morwell",
+	"state": "Victoria",
+	"post_code": "3840",
+	"lat": "-38.236809999999998",
+	"lon": "146.39870300000001"
+}, {
+	"suburb": "Churchill",
+	"state": "Victoria",
+	"post_code": "3842",
+	"lat": "-38.321314999999998",
+	"lon": "146.41798600000001"
+}, {
+	"suburb": "Traralgon",
+	"state": "Victoria",
+	"post_code": "3844",
+	"lat": "-38.193322000000002",
+	"lon": "146.53837300000001"
+}, {
+	"suburb": "Rosedale",
+	"state": "Victoria",
+	"post_code": "3847",
+	"lat": "-38.151336000000001",
+	"lon": "146.786824"
+}, {
+	"suburb": "Sale",
+	"state": "Victoria",
+	"post_code": "3850",
+	"lat": "-38.109349000000002",
+	"lon": "147.06841800000001"
+}, {
+	"suburb": "Loch Sport",
+	"state": "Victoria",
+	"post_code": "3851",
+	"lat": "-38.057682999999997",
+	"lon": "147.568397"
+}, {
+	"suburb": "Longford",
+	"state": "Victoria",
+	"post_code": "3851",
+	"lat": "-38.174621000000002",
+	"lon": "147.08820499999999"
+}, {
+	"suburb": "Glengarry",
+	"state": "Victoria",
+	"post_code": "3854",
+	"lat": "-38.124640999999997",
+	"lon": "146.573643"
+}, {
+	"suburb": "Maffra",
+	"state": "Victoria",
+	"post_code": "3860",
+	"lat": "-37.966701",
+	"lon": "146.97544500000001"
+}, {
+	"suburb": "Bairnsdale",
+	"state": "Victoria",
+	"post_code": "3875",
+	"lat": "-37.825113999999999",
+	"lon": "147.628962"
+}, {
+	"suburb": "Paynesville",
+	"state": "Victoria",
+	"post_code": "3880",
+	"lat": "-37.918979999999998",
+	"lon": "147.71955399999999"
+}, {
+	"suburb": "Bruthen",
+	"state": "Victoria",
+	"post_code": "3885",
+	"lat": "-37.707929999999998",
+	"lon": "147.831322"
+}, {
+	"suburb": "Orbost",
+	"state": "Victoria",
+	"post_code": "3888",
+	"lat": "-37.707335999999998",
+	"lon": "148.45488700000001"
+}, {
+	"suburb": "Omeo",
+	"state": "Victoria",
+	"post_code": "3898",
+	"lat": "-37.098832000000002",
+	"lon": "147.594222"
+}, {
+	"suburb": "Lakes Entrance",
+	"state": "Victoria",
+	"post_code": "3909",
+	"lat": "-37.881498999999998",
+	"lon": "147.982787"
+}, {
+	"suburb": "Langwarrin",
+	"state": "Victoria",
+	"post_code": "3910",
+	"lat": "-38.153809000000003",
+	"lon": "145.18585100000001"
+}, {
+	"suburb": "Pearcedale",
+	"state": "Victoria",
+	"post_code": "3912",
+	"lat": "-38.202616999999996",
+	"lon": "145.232339"
+}, {
+	"suburb": "Somerville",
+	"state": "Victoria",
+	"post_code": "3912",
+	"lat": "-38.223956000000001",
+	"lon": "145.17579799999999"
+}, {
+	"suburb": "Hastings",
+	"state": "Victoria",
+	"post_code": "3915",
+	"lat": "-38.30771",
+	"lon": "145.190507"
+}, {
+	"suburb": "French Island",
+	"state": "Victoria",
+	"post_code": "3921",
+	"lat": "-38.342506",
+	"lon": "145.33874900000001"
+}, {
+	"suburb": "Somers",
+	"state": "Victoria",
+	"post_code": "3927",
+	"lat": "-38.383442000000002",
+	"lon": "145.147627"
+}, {
+	"suburb": "Flinders",
+	"state": "Victoria",
+	"post_code": "3929",
+	"lat": "-38.473815000000002",
+	"lon": "145.01627999999999"
+}, {
+	"suburb": "Mount Eliza",
+	"state": "Victoria",
+	"post_code": "3930",
+	"lat": "-38.187263000000002",
+	"lon": "145.08962600000001"
+}, {
+	"suburb": "Mornington",
+	"state": "Victoria",
+	"post_code": "3931",
+	"lat": "-38.238385999999998",
+	"lon": "145.06419500000001"
+}, {
+	"suburb": "Mount Martha",
+	"state": "Victoria",
+	"post_code": "3934",
+	"lat": "-38.302365999999999",
+	"lon": "144.99487300000001"
+}, {
+	"suburb": "Dromana",
+	"state": "Victoria",
+	"post_code": "3936",
+	"lat": "-38.333311000000002",
+	"lon": "144.96356399999999"
+}, {
+	"suburb": "McCrae",
+	"state": "Victoria",
+	"post_code": "3938",
+	"lat": "-37.990225000000002",
+	"lon": "145.21956"
+}, {
+	"suburb": "Rosebud",
+	"state": "Victoria",
+	"post_code": "3939",
+	"lat": "-38.355262000000003",
+	"lon": "144.906239"
+}, {
+	"suburb": "St Andrews Beach",
+	"state": "Victoria",
+	"post_code": "3941",
+	"lat": "-38.415059999999997",
+	"lon": "144.82352299999999"
+}, {
+	"suburb": "Korumburra",
+	"state": "Victoria",
+	"post_code": "3950",
+	"lat": "-38.431928999999997",
+	"lon": "145.823567"
+}, {
+	"suburb": "Leongatha",
+	"state": "Victoria",
+	"post_code": "3953",
+	"lat": "-38.476151000000002",
+	"lon": "145.94629900000001"
+}, {
+	"suburb": "Foster",
+	"state": "Victoria",
+	"post_code": "3960",
+	"lat": "-38.652589999999996",
+	"lon": "146.20200700000001"
+}, {
+	"suburb": "Wilsons Promontory",
+	"state": "Victoria",
+	"post_code": "3960",
+	"lat": "-38.924872999999998",
+	"lon": "146.32983899999999"
+}, {
+	"suburb": "Yarram",
+	"state": "Victoria",
+	"post_code": "3971",
+	"lat": "-38.562401999999999",
+	"lon": "146.67603500000001"
+}, {
+	"suburb": "Lynbrook",
+	"state": "Victoria",
+	"post_code": "3975",
+	"lat": "-38.050457000000002",
+	"lon": "145.257531"
+}, {
+	"suburb": "Lynbrook",
+	"state": "Victoria",
+	"post_code": "3975",
+	"lat": "-38.050457000000002",
+	"lon": "145.257531"
+}, {
+	"suburb": "Lyndhurst",
+	"state": "Victoria",
+	"post_code": "3975",
+	"lat": "-38.053274999999999",
+	"lon": "145.24434299999999"
+}, {
+	"suburb": "Hampton Park",
+	"state": "Victoria",
+	"post_code": "3976",
+	"lat": "-38.032221",
+	"lon": "145.26786300000001"
+}, {
+	"suburb": "Cranbourne",
+	"state": "Victoria",
+	"post_code": "3977",
+	"lat": "-38.111220000000003",
+	"lon": "145.268832"
+}, {
+	"suburb": "Cranbourne East",
+	"state": "Victoria",
+	"post_code": "3977",
+	"lat": "-38.117857000000001",
+	"lon": "145.320381"
+}, {
+	"suburb": "Cranbourne North",
+	"state": "Victoria",
+	"post_code": "3977",
+	"lat": "-38.082217999999997",
+	"lon": "145.27653799999999"
+}, {
+	"suburb": "Cranbourne South",
+	"state": "Victoria",
+	"post_code": "3977",
+	"lat": "-38.145570999999997",
+	"lon": "145.226226"
+}, {
+	"suburb": "Cranbourne West",
+	"state": "Victoria",
+	"post_code": "3977",
+	"lat": "-38.109374000000003",
+	"lon": "145.25241"
+}, {
+	"suburb": "Sandhurst",
+	"state": "Victoria",
+	"post_code": "3977",
+	"lat": "-38.080717999999997",
+	"lon": "145.20951099999999"
+}, {
+	"suburb": "Skye",
+	"state": "Victoria",
+	"post_code": "3977",
+	"lat": "-38.118299999999998",
+	"lon": "145.20309900000001"
+}, {
+	"suburb": "Tooradin",
+	"state": "Victoria",
+	"post_code": "3980",
+	"lat": "-38.210636000000001",
+	"lon": "145.38007200000001"
+}, {
+	"suburb": "Koo Wee Rup",
+	"state": "Victoria",
+	"post_code": "3981",
+	"lat": "-38.199370000000002",
+	"lon": "145.49076099999999"
+}, {
+	"suburb": "Wonthaggi",
+	"state": "Victoria",
+	"post_code": "3995",
+	"lat": "-38.606312000000003",
+	"lon": "145.588583"
+}, {
+	"suburb": "Inverloch",
+	"state": "Victoria",
+	"post_code": "3996",
+	"lat": "-38.632958000000002",
+	"lon": "145.72964099999999"
+}];
