@@ -1,6 +1,10 @@
 User-agent: *
 Disallow: /admin/login/
 Disallow: /admin
+sitemap: https://avaana.com.au/sitemap/sitemap-index.xml
+sitemap: https://avaana.com.au/sitemap/generic-pages.xml
+sitemap: https://avaana.com.au/sitemap/city-wise.xml
+sitemap: https://avaana.com.au/sitemap/services.xml
 sitemap: https://avaana.com.au/sitemap/act_services_sitemap.xml
 sitemap: https://avaana.com.au/sitemap/nsw_services_sitemap.xml
 sitemap: https://avaana.com.au/sitemap/nt_services_sitemap.xml

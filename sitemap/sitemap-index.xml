@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+      <loc>https://avaana.com.au/generic-pages.xml</loc>
+      <lastmod>2022-05-11</lastmod>
+    </sitemap>
+
+    <sitemap>
+      <loc>https://avaana.com.au/services.xml</loc>
+      <lastmod>2022-05-11</lastmod>
+    </sitemap>
+
+    <sitemap>
+      <loc>https://avaana.com.au/city-wise.xml</loc>
+      <lastmod>2022-05-11</lastmod>
+    </sitemap>
+
+    <sitemap>
+      <loc>https://avaana.com.au/blogs.xml</loc>
+      <lastmod>2022-05-11</lastmod>
+    </sitemap>
+  </sitemapindex>
